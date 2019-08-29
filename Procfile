@@ -1,0 +1,1 @@
+web: flask translate compile; gunicorn bot:app
